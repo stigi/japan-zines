@@ -1,0 +1,132 @@
+volume: 1
+title: KANA IN YOUR POCKET
+subtitle: Hiragana + Katakana
+pages:
+- title: HIRAGANA 1
+  entries:
+  - - あ い う え お
+    - a i u e o
+    - Vowels
+  - - か き く け こ
+    - ka ki ku ke ko
+    - K row
+  - - さ し す せ そ
+    - sa shi su se so
+    - S row
+  - - た ち つ て と
+    - ta chi tsu te to
+    - T row
+- title: HIRAGANA 2
+  entries:
+  - - な に ぬ ね の
+    - na ni nu ne no
+    - N row
+  - - は ひ ふ へ ほ
+    - ha hi fu he ho
+    - H row
+  - - ま み む め も
+    - ma mi mu me mo
+    - M row
+  - - や ゆ よ
+    - ya yu yo
+    - Y row
+  - - ら り る れ ろ
+    - ra ri ru re ro
+    - R row
+  - - わ を ん
+    - wa wo n
+    - W + N
+- title: KATAKANA 1
+  entries:
+  - - ア イ ウ エ オ
+    - a i u e o
+    - Vowels
+  - - カ キ ク ケ コ
+    - ka ki ku ke ko
+    - K row
+  - - サ シ ス セ ソ
+    - sa shi su se so
+    - S row
+  - - タ チ ツ テ ト
+    - ta chi tsu te to
+    - T row
+- title: KATAKANA 2
+  entries:
+  - - ナ ニ ヌ ネ ノ
+    - na ni nu ne no
+    - N row
+  - - ハ ヒ フ ヘ ホ
+    - ha hi fu he ho
+    - H row
+  - - マ ミ ム メ モ
+    - ma mi mu me mo
+    - M row
+  - - ヤ ユ ヨ
+    - ya yu yo
+    - Y row
+  - - ラ リ ル レ ロ
+    - ra ri ru re ro
+    - R row
+  - - ワ ヲ ン
+    - wa wo n
+    - W + N
+- title: SOUND HACKS
+  entries:
+  - - が ぎ ぐ げ ご
+    - ga gi gu ge go
+    - Voiced K
+  - - ざ じ ず ぜ ぞ
+    - za ji zu ze zo
+    - Voiced S
+  - - だ ぢ づ で ど
+    - da ji zu de do
+    - Voiced T
+  - - ば び ぶ べ ぼ
+    - ba bi bu be bo
+    - Voiced H
+  - - ぱ ぴ ぷ ぺ ぽ
+    - pa pi pu pe po
+    - P sounds
+  - - きゃ しゅ ちょ
+    - kya shu cho
+    - Combined sounds
+- title: ON THE ROAD
+  entries:
+  - - こんにちは
+    - konnichiwa
+    - Hello
+  - - ありがとう
+    - arigatō
+    - Thanks
+  - - すみません
+    - sumimasen
+    - Excuse me
+  - - トイレ
+    - toire
+    - Toilet
+  - - えき
+    - eki
+    - Station
+  - - でぐち
+    - deguchi
+    - Exit
+- title: QUICK GUIDE
+  entries:
+  - - ひらがな
+    - hiragana
+    - Native words + grammar
+  - - カタカナ
+    - katakana
+    - Loanwords + names
+  - - ー
+    - —
+    - Long vowel in katakana
+  - - っ / ッ
+    - small tsu
+    - Double next consonant
+  - - ん / ン
+    - n
+    - Final n
+  - - は / へ / を
+    - wa / e / o
+    - Particle pronunciations

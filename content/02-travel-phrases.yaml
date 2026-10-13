@@ -1,0 +1,105 @@
+volume: 2
+title: TRAVEL PHRASES
+subtitle: Politeness • Food • Getting around
+pages:
+- title: BE POLITE
+  entries:
+  - - こんにちは
+    - konnichiwa
+    - Hello
+  - - すみません
+    - sumimasen
+    - Excuse me / sorry
+  - - ありがとうございます
+    - arigatō gozaimasu
+    - Thank you very much
+  - - お願いします
+    - onegaishimasu
+    - Please / I'd appreciate it
+  - - 大丈夫です
+    - daijōbu desu
+    - It's okay / no thanks
+- title: RESTAURANT
+  entries:
+  - - 三人です。
+    - sannin desu.
+    - There are three of us.
+  - - メニューをお願いします。
+    - menyū o onegaishimasu.
+    - Menu, please.
+  - - これをください。
+    - kore o kudasai.
+    - This, please.
+  - - お会計お願いします。
+    - okaikei onegaishimasu.
+    - The bill, please.
+- title: VEGETARIAN
+  entries:
+  - - 妻と娘はベジタリアンです。
+    - tsuma to musume wa bejitarian desu.
+    - My wife and daughter are vegetarian.
+  - - 二人は肉も魚も食べません。
+    - futari wa niku mo sakana mo tabemasen.
+    - Neither eats meat or fish.
+  - - 肉や魚なしでできますか？
+    - niku ya sakana nashi de dekimasu ka?
+    - Can you make it without meat or fish?
+- title: HIDDEN INGREDIENTS
+  entries:
+  - - 魚のだしは入っていますか？
+    - sakana no dashi wa haitte imasu ka?
+    - Does it contain fish stock?
+  - - 鰹節は入っていますか？
+    - katsuobushi wa haitte imasu ka?
+    - Does it contain bonito flakes?
+  - - 昆布だしですか？
+    - konbu dashi desu ka?
+    - Is it kelp stock?
+- title: COUNTING THINGS
+  entries:
+  - - 一つ / 二つ
+    - hitotsu / futatsu
+    - One / two
+  - - 三つ / 四つ
+    - mittsu / yottsu
+    - Three / four
+  - - 五つ / 六つ
+    - itsutsu / muttsu
+    - Five / six
+  - - 七つ / 八つ
+    - nanatsu / yattsu
+    - Seven / eight
+  - - 九つ / 十
+    - kokonotsu / tō
+    - Nine / ten
+- title: PEOPLE & ORDERS
+  entries:
+  - - 一人
+    - hitori
+    - One person
+  - - 二人
+    - futari
+    - Two people
+  - - 三人
+    - sannin
+    - Three people
+  - - これを二つください。
+    - kore o futatsu kudasai.
+    - Two of these, please.
+  - - これを三つください。
+    - kore o mittsu kudasai.
+    - Three of these, please.
+- title: GETTING AROUND
+  entries:
+  - - 駅はどこですか？
+    - eki wa doko desu ka?
+    - Where is the station?
+  - - トイレはどこですか？
+    - toire wa doko desu ka?
+    - Where is the toilet?
+  - - いくらですか？
+    - ikura desu ka?
+    - How much is it?
+  - - もう一度お願いします。
+    - mō ichido onegaishimasu.
+    - Once more, please.

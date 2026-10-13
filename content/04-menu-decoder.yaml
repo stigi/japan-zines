@@ -1,0 +1,117 @@
+volume: 4
+title: MENU DECODER
+subtitle: Food • Ingredients • Dashi
+pages:
+- title: GOOD STARTS
+  entries:
+  - - 野菜
+    - yasai
+    - Vegetables
+  - - 豆腐
+    - tōfu
+    - Tofu
+  - - きのこ
+    - kinoko
+    - Mushrooms
+  - - ご飯
+    - gohan
+    - Rice
+  - - 卵
+    - tamago
+    - Egg
+- title: NOODLES & MORE
+  entries:
+  - - うどん
+    - udon
+    - Thick wheat noodles
+  - - そば
+    - soba
+    - Buckwheat noodles
+  - - ラーメン
+    - rāmen
+    - Ramen
+  - - おにぎり
+    - onigiri
+    - Rice ball
+  - - 味噌汁
+    - misoshiru
+    - Miso soup
+- title: MEAT & FISH
+  entries:
+  - - 肉
+    - niku
+    - Meat
+  - - 豚肉
+    - butaniku
+    - Pork
+  - - 鶏肉
+    - toriniku
+    - Chicken
+  - - 牛肉
+    - gyūniku
+    - Beef
+  - - 魚 / 海老
+    - sakana / ebi
+    - Fish / shrimp
+- title: HIDDEN FISH
+  entries:
+  - - だし / 出汁
+    - dashi
+    - Stock, often fish-based
+  - - 鰹節
+    - katsuobushi
+    - Bonito flakes
+  - - 煮干し
+    - niboshi
+    - Dried small fish
+  - - 魚醤
+    - gyoshō
+    - Fish sauce
+  - - 魚介
+    - gyokai
+    - Fish & seafood
+- title: MENU WORDS
+  entries:
+  - - 焼き
+    - yaki
+    - Grilled / fried
+  - - 揚げ
+    - age
+    - Deep-fried
+  - - 煮物
+    - nimono
+    - Simmered dish
+  - - 定食
+    - teishoku
+    - Set meal
+  - - 単品
+    - tanpin
+    - Single item / à la carte
+- title: ASK FOR THEM
+  entries:
+  - - 妻と娘は
+    - tsuma to musume wa
+    - My wife and daughter…
+  - - ベジタリアンです。
+    - bejitarian desu.
+    - …are vegetarian.
+  - - 肉も魚も食べません。
+    - niku mo sakana mo tabemasen.
+    - They eat neither meat nor fish.
+  - - 魚のだしは入っていますか？
+    - sakana no dashi wa haitte imasu ka?
+    - Does it contain fish stock?
+- title: CHECK & ORDER
+  entries:
+  - - 肉や魚なしでできますか？
+    - niku ya sakana nashi de dekimasu ka?
+    - Can you make it without meat or fish?
+  - - 昆布だしですか？
+    - konbu dashi desu ka?
+    - Is it kelp stock?
+  - - これを二つください。
+    - kore o futatsu kudasai.
+    - Two of these, please.
+  - - ありがとうございます。
+    - arigatō gozaimasu.
+    - Thank you very much.

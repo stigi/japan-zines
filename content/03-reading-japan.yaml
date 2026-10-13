@@ -1,0 +1,123 @@
+volume: 3
+title: READING JAPAN
+subtitle: Signs • Stations • Shops
+pages:
+- title: WAYFINDING
+  entries:
+  - - 入口
+    - iriguchi
+    - Entrance
+  - - 出口
+    - deguchi
+    - Exit
+  - - 東口 / 西口
+    - higashi / nishi guchi
+    - East / west exit
+  - - 右 / 左
+    - migi / hidari
+    - Right / left
+  - - 上 / 下
+    - ue / shita
+    - Up / down
+- title: TRAINS
+  entries:
+  - - 駅
+    - eki
+    - Station
+  - - 改札口
+    - kaisatsuguchi
+    - Ticket gate
+  - - 乗り場
+    - noriba
+    - Boarding area
+  - - 乗り換え
+    - norikae
+    - Transfer
+  - - 各駅停車
+    - kakueki teisha
+    - Local train
+- title: PLATFORMS
+  entries:
+  - - 指定席
+    - shiteiseki
+    - Reserved seat
+  - - 自由席
+    - jiyūseki
+    - Unreserved seat
+  - - 発車
+    - hassha
+    - Departure
+  - - 到着
+    - tōchaku
+    - Arrival
+  - - 遅延
+    - chien
+    - Delay
+- title: SHOPS
+  entries:
+  - - 営業中
+    - eigyō-chū
+    - Open for business
+  - - 準備中
+    - junbi-chū
+    - Not open yet
+  - - 定休日
+    - teikyūbi
+    - Regular closing day
+  - - 売り切れ
+    - urikire
+    - Sold out
+  - - 現金のみ
+    - genkin nomi
+    - Cash only
+- title: RULES
+  entries:
+  - - 禁止
+    - kinshi
+    - Prohibited
+  - - 立入禁止
+    - tachiiri kinshi
+    - Do not enter
+  - - 禁煙
+    - kin'en
+    - No smoking
+  - - 撮影禁止
+    - satsuei kinshi
+    - No photography
+  - - 注意
+    - chūi
+    - Caution
+- title: EVERYDAY
+  entries:
+  - - トイレ
+    - toire
+    - Toilet
+  - - お手洗い
+    - otearai
+    - Restroom
+  - - 無料 / 有料
+    - muryō / yūryō
+    - Free / paid
+  - - 受付
+    - uketsuke
+    - Reception
+  - - 非常口
+    - hijōguchi
+    - Emergency exit
+- title: QUICK CLUES
+  entries:
+  - - 円
+    - en
+    - Yen
+  - - 税込
+    - zeikomi
+    - Tax included
+  - - 税別
+    - zeibetsu
+    - Tax excluded
+  - - 大人 / 子供
+    - otona / kodomo
+    - Adult / child
+  - - 本日休業
+    - honjitsu kyūgyō
+    - Closed today
